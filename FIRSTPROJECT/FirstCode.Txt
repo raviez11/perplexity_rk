@@ -1,3 +1,2 @@
 Hello Earth !!!
-take user's input
-add values
+diving into pool of techs
